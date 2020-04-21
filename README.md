@@ -2,7 +2,7 @@
 
 Template för projektarbete i teknik.
 
-lla instruktioner finns klonade till ert eget repo från git classroom, men dokumenten hittar ni även på mig git, här
+Alla instruktioner finns klonade till ert eget repo från git classroom, men dokumenten hittar ni även på mig git, här
 https://github.com/jensnti/teknik-projekt/blob/master/README.md
 
 ## Vad ska jag göra då?
